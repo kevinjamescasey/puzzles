@@ -1,5 +1,6 @@
 /*
 keep finding the largest element in the unsorted part and adding it to the front of the sorted part
+mutates a
 */
 function bubbleSort(a) {
     for(let i = 0; i < a.length; i++){
